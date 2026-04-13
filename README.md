@@ -12,37 +12,47 @@ To demonstrate the ability to perform in-depth data analysis using SQL, uncover 
 🔹 **Aggregations**
 Revenue, sales, and order volume summaries
 Monthly and category-level breakdowns
+
 🔹 **Time-Based Analysis**
 Year-over-Year (YoY) growth
 Monthly performance trends
 Cumulative analysis (running totals over time)
+
 🔹 **Performance Analysis**
 Product and customer performance evaluation
 Identification of top and underperforming entities
+
 🔹 **Part-to-Whole Analysis**
 Contribution of individual products/categories to total revenue
+
 🔹 **Ranking Analytics**
 Top-N products and customers
 Ranking within categories and time periods using window functions
+
 🔹 **Data Segmentation**
 Customer and product segmentation based on purchasing behavior and time spent as a customer ( 'VIP, 'Regular, 'New')
 Identification of high-value vs low-value segments 
+
 📊 **Reports**
+
 🛍️ **Product Performance Report**
 Sales performance by product and category
 Ranking of top-performing products
 Average monthly revenue per product
 Last-month sales insights
+
 👤 **Customer Insights Report**
 Customer purchasing behavior analysis
 Average monthly spending per customer
 Segmentation of customers by value
 Last-month order activity
+
 💡 **Example Insights Generated**
 Identification of top revenue-generating products
 Trends in customer spending over time
 Key contributors to overall business performance
 Behavioral differences across customer segments
+
 🛠️ **Tools & Skills Demonstrated**
 SQL (Advanced)
 Window functions
